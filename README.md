@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente não trabalho como dev, mas gostaria.
 - 🌱 Estudando Java/Spring.
-- 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Já fui Advogado em um passado distante.
 
 <div align="center">
