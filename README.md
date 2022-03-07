@@ -1,6 +1,6 @@
 ## Olá, sou o Victor Ramide. Bem vindo(a)s ao meu perfil.
 
-- 🌱 Estudando Java/Spring.
+- 🌱 Estudando Java/Spring e Python.
 - ⚡ Fun fact: Já fui Advogado em um passado distante.
 
 <div align="center">
